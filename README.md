@@ -1,2 +1,2 @@
-# CuentasPorPagar_API
-API para gestion de datos relacionados a proyecto Cuentas por Pagar
+# CuentasPorPagar_Sitio
+Sitio web para gestion de datos relacionados a proyecto Cuentas por Pagar
